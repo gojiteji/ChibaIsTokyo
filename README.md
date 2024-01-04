@@ -1,5 +1,5 @@
 # Chiba Is Tokyo
-Chiba exists in Tokyo. Check `CountChibaInTokyo.ipynb`.
+Chiba exists in Tokyo. Counting named "Chiba" Corps in Tokyo.`CountChibaInTokyo.ipynb`.
 
 https://x.com/CirculoArq/status/1742626531879408099
 
